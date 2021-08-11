@@ -1,0 +1,6 @@
+[
+	{
+		"pkg": "@dwaw18/capacitor-plugin-wifi",
+		"classpath": "com.capacitorjs.plugins.device.CustomWifiPlugin"
+	}
+]
